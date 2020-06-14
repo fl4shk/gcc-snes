@@ -1212,6 +1212,7 @@ case $cpu-$vendor in
 			| mmix \
 			| mn10200 | mn10300 \
 			| moxie \
+			| snes \
 			| mt \
 			| msp430 \
 			| nds32 | nds32le | nds32be \
